@@ -1,4 +1,4 @@
-exception_projects = 
 [
-"pid-gousgnad-tlz-pandey-bd2a"
+  "pid-gousgnad-tlz-pandey-bd2a",
+  "another-project-id"
 ]
